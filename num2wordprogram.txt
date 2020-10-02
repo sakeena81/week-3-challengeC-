@@ -1,0 +1,21 @@
+using int_to_char;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace practice
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Word X = new Word();
+            X.Transform(999);
+
+
+            Console.Read();
+        }
+    }
+}
