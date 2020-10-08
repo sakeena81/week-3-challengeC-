@@ -28,11 +28,13 @@ I wanted to do another stretch goal of numbers up to 10000, I wanted to push mys
 
 ## Possible improvements for future challenges
 
-I can think of TWO aspects that would improve future challenges:
+I can think of 3 aspects that would improve future challenges:
 
-1) Do not be afraid to ask questions, no matter how detail oriented they are, practice alot more.
+1) Do not be afraid to ask questions, no matter how detail oriented they are,
 
-2)I need some idea of what specific area of a coding programme I will be looking at for the night before, so I can do some swotting and allow myself the time to process information, as we are not stupid machines, but people with 🧠  where information takes a little longer to process. 
+2) practice alot more.
+
+3) I need some idea of what specific area of a coding programme I will be looking at for the night before, so I can do some swotting and allow myself the time to process information, as we are not stupid machines, but people with 🧠  where information takes a little longer to process. 
 
 
 Copyright (c) 2020 **_Sakeena Ali_**
